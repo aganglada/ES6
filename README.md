@@ -1,4 +1,4 @@
-![ECMAScript 6](http://www.pcper.com/files/imagecache/article_max_width/news/2014-09-19/javascript-logo.png =200px)
+![ECMAScript 6](http://baptiste-langlade.com/images/js.png "ECMAScript 6")
 
 # ES6 documentation
 
