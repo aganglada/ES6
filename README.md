@@ -22,6 +22,8 @@ ECMAScript 6 reached feature complete status in 2014. The features vary widely f
 
 ### Check this out!
 
+* [Arrows functions](https://github.com/aganglada/ES6/wiki/Arrows)
+* [Classes](https://github.com/aganglada/ES6/wiki/Classes)
 * [Map](https://github.com/aganglada/ES6/wiki/Map)
 * [WeakMap](https://github.com/aganglada/ES6/wiki/WeakMap)
 * [Set](https://github.com/aganglada/ES6/wiki/Set)
